@@ -6,6 +6,7 @@ pptx2ds.ps1 is a PowerShell script to convert PowerPoint presentations to Digita
 The goal of the program is to make it as easy as possible for presenters to create presentations that make use of the dome. Ease of use is more important than features: converting a presentation should only take a minute with no (or only a few) manual steps.
 
 Together with other solutions this software can be used provide different level of presentation support in Digital Sky.
+
 1. Simple: through streaming or separate projector.
 2. Intermediate: some dome features through software like this.
 3. Full: hand-tailored DigitalSky script.
