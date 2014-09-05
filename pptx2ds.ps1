@@ -76,7 +76,7 @@ $filename_button = "F" + $script_number + ".sct"
 # The full location of the Powerpoint file.
 $fullfilename_powerpoint = $path_powerpoint + $filename_powerpoint
 
-Wtite-Host "Opening PowerPoint presentation."
+Write-Host "Opening PowerPoint presentation."
 Write-Host $fullfilename_powerpoint 
 
 # The directory where the slides will be saved is based on the number of the button.
